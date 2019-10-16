@@ -1,0 +1,8 @@
+name: JSON:API Link Field Enhancer
+type: module
+description: Adding in extra formatting options for links on JSON:API
+package: JSON:API
+core: 8.x
+dependencies:
+  - jsonapi
+  - jsonapi_extras
